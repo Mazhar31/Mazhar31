@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mazhar31
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
